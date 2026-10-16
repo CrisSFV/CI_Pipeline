@@ -101,7 +101,7 @@ Resultado local:
 |-----------|--------|-----------|--------|
 | A. Ejecución exitosa | `1f8fe1d` | ✅ Success | [Run 38978300782](https://github.com/CrisSFV/CI_Pipeline/actions/runs/38978300782) |
 | B. Ejecución fallida controlada | `af8080e` | ❌ Failure | [Run 38978503062](https://github.com/CrisSFV/CI_Pipeline/actions/runs/38978503062) |
-| C. Ejecución exitosa tras la corrección | _pendiente_ | ✅ Success | _pendiente_ |
+| C. Ejecución exitosa tras la corrección | `24cd259` | ✅ Success | [Run 38978622291](https://github.com/CrisSFV/CI_Pipeline/actions/runs/38978622291) |
 
 Historial completo: <https://github.com/CrisSFV/CI_Pipeline/actions>
 
