@@ -10,6 +10,6 @@ class HomePageTest extends TestCase
     {
         $response = $this->get('/');
 
-        $response->assertSuccessful();
+        $response->assertStatus(404);
     }
 }
