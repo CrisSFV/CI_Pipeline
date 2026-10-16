@@ -99,8 +99,8 @@ Resultado local:
 
 | Ejecución | Commit | Resultado | Enlace |
 |-----------|--------|-----------|--------|
-| A. Ejecución exitosa | _pendiente_ | ✅ Success | _pendiente_ |
-| B. Ejecución fallida controlada | _pendiente_ | ❌ Failure | _pendiente_ |
+| A. Ejecución exitosa | `1f8fe1d` | ✅ Success | [Run 38978300782](https://github.com/CrisSFV/CI_Pipeline/actions/runs/38978300782) |
+| B. Ejecución fallida controlada | `af8080e` | ❌ Failure | [Run 38978503062](https://github.com/CrisSFV/CI_Pipeline/actions/runs/38978503062) |
 | C. Ejecución exitosa tras la corrección | _pendiente_ | ✅ Success | _pendiente_ |
 
 Historial completo: <https://github.com/CrisSFV/CI_Pipeline/actions>
